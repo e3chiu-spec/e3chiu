@@ -41,6 +41,4 @@ Helped develop a **senior scam prevention initiative** that reached over **200 s
 
 I hope to contribute to research that improves the fairness, transparency, and societal impact of AI while continuing to develop my technical and research skills.
 
----
-
 </div>
