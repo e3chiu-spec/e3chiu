@@ -10,15 +10,15 @@ Interested in using **data and artificial intelligence to create technology that
 
 ## About Me
 
-Passionate about making technology more accessible through education and community outreach
+Passionate about making technology more accessible through education and community outreach.
 
-Looking to gain research experience in AI, data science, and human-centered computing
+Looking to gain research experience in AI, data science, and human-centered computing.
 
 ---
 
 ## Currently Learning
 
-As an incoming freshman, I'm building my foundation in
+As an incoming freshman, I'm building my skills in
 
 - Python
 - Statistics
